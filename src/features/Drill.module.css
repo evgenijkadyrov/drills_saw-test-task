@@ -1,0 +1,31 @@
+.container {
+    width: 300px;
+    height: 450px;
+    background-color: antiquewhite;
+    margin: 10px;
+}
+
+.wrapperItem {
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: space-between;*/
+    display: grid;
+height: 430px;
+    grid-template-rows: 200px auto 50px;
+    padding: 10px;
+}
+.image{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+}
+.itemInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btnBuy{
+display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,94 @@
+{
+  "drills": [
+    {
+      "id": 0,
+      "imageUrl": "https://cdn21vek.by/img/galleries/5674/697/preview/df0300_makita_5d7a9676f3978.jpeg",
+      "name": "Makita DF0300",
+      "description": "",
+      "price": 209,
+      "category": 3,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://cdn21vek.by/img/galleries/943/312/preview/df333dwae_makita_5ca5edc10ea20.jpeg",
+      "name": "Makita DF333DWAE",
+      "description": "",
+      "price": 399,
+      "category": 3,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://cdn21vek.by/img/galleries/5665/815/preview/gsb180li_bosch_5d774e29626dc.jpeg",
+      "name": "Bosch GSB 180LI",
+      "description": "",
+      "price": 644,
+      "category": 3,
+      "rating": 3.5
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://cdn21vek.by/img/galleries/7399/663/preview/clx226x1_makita_6389e73fb4294.jpeg",
+      "name": "Makita CLX226X1",
+      "description": "",
+      "price": 487,
+      "category": 3,
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://cdn21vek.by/img/galleries/5735/741/preview/gsb120li_bosch_5dc1748f89207.jpeg",
+      "name": "Bosch",
+      "description": "",
+      "price": 431,
+      "category": 3,
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://cdn21vek.by/img/galleries/97/601/preview/powermaxxbsbasic_metabo_5965ca1fed2a9.jpeg",
+      "name": "Metabo PowerMaxx",
+      "description": "",
+      "price": 472,
+      "category": 3,
+      "rating": 2.5
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://cdn21vek.by/img/galleries/6864/542/preview/bsb18g4202c_aeg_powertools_6135c2cb4872e.jpeg",
+      "name": "AEG Powertools",
+      "description": "",
+      "price": 599,
+      "category": 3,
+      "rating": 4.5
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://cdn21vek.by/img/galleries/7799/613/preview/dhp458zsp_makita_63b69e16e8a94.jpeg",
+      "name": "Makita DF0485",
+      "description": "",
+      "price": 427,
+      "category": 3,
+      "rating": 0
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://cdn21vek.by/img/galleries/5832/468/preview/ds12da_hikoki_5e1c50ec46441.jpeg",
+      "name": "Hikoki",
+      "description": "",
+      "price": 473,
+      "category": 3,
+      "rating": 2.5
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://cdn21vek.by/img/galleries/513/558/preview/df347dwle_makita_5a4ce63407da1.jpeg",
+      "name": "Makita DF347DWLE",
+      "description": "",
+      "price": 692,
+      "category": 3,
+      "rating": 0
+    }
+  ]
+}
